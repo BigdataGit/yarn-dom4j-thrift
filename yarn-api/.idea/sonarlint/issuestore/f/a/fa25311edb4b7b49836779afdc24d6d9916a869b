@@ -1,22 +1,0 @@
-
-Zsquid:S2629~"7Use the built-in formatting to construct this argument.(”¶›Šûÿÿÿÿ8Î¥À¦ê,
-msquid:S3008*"ORename this field "RGEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õæ ü8Ñ€Æ¦ê,
-V
-squid:S106k"9Replace this use of System.out or System.err by a logger.(êæ÷Ž8®ÞÁ¡ê,
-isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(öæ¡ä8îžÒ£ê,
-wsquid:UselessImportCheck"GRemove this unused import 'org.apache.thrift.protocol.TBinaryProtocol'.(ìðô»ùÿÿÿÿ8„Ë ¥ê,
-qsquid:S3008)"NRename this field "IPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ß…ùÿÿÿÿ8©—Ì¥ê,
-_squid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8¹ç½¥ê,
-Tsquid:S2696w"6Make the enclosing method "static" or remove this set.(Ð©‰›8¯Öÿ¥ê,
-dsquid:S3457~"AFormat specifiers should be used instead of string concatenation.(”¶›Šûÿÿÿÿ8Î¥À¦ê,
-nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(úë÷‡ùÿÿÿÿ8îžÒ£ê,
-`squid:UselessImportCheck	"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8¹ç½¥ê,
-[
-squid:S106b"9Replace this use of System.out or System.err by a logger.(Óç‰‘üÿÿÿÿ8®ÞÁ¡ê,
-isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(•ž—˜8îžÒ£ê,
-csquid:UselessImportCheck
-"3Remove this unused import 'java.net.SocketAddress'.(ìÜˆ©ýÿÿÿÿ8ª¨¥ê,
-dsquid:UselessImportCheck"9Remove this unused import 'org.apache.thrift.TException'.(ôÆïþ8ª¨¥ê,
-V
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(ÍÁÔþ8®ÞÁ¡ê,
-jsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¹ç½¥ê,
