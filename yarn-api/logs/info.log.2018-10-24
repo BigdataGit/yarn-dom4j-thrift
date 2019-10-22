@@ -1,0 +1,18 @@
+[2018-10-24T17:48:35.795+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server
+[2018-10-24T17:51:40.934+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server
+[2018-10-24T17:52:09.208+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server
+[2018-10-24T17:53:14.945+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server
+[2018-10-24T17:53:15.001+08:00] [ERROR] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:59) : Internal error processing delQueueResource
+org.apache.thrift.TApplicationException: Internal error processing delQueueResource
+	at org.apache.thrift.TServiceClient.receiveBase(TServiceClient.java:79)
+	at com.sf.yarn.service.YarnApiService$Client.recv_delQueueResource(YarnApiService.java:94)
+	at com.sf.yarn.service.YarnApiService$Client.delQueueResource(YarnApiService.java:81)
+	at com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:57)
+[2018-10-24T17:55:26.906+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server
+[2018-10-24T17:55:26.940+08:00] [ERROR] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:59) : Internal error processing delQueueResource
+org.apache.thrift.TApplicationException: Internal error processing delQueueResource
+	at org.apache.thrift.TServiceClient.receiveBase(TServiceClient.java:79)
+	at com.sf.yarn.service.YarnApiService$Client.recv_delQueueResource(YarnApiService.java:94)
+	at com.sf.yarn.service.YarnApiService$Client.delQueueResource(YarnApiService.java:81)
+	at com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:57)
+[2018-10-24T17:56:17.067+08:00] [INFO] com.sf.yarn.client.YarnRmClient com.sf.yarn.client.YarnRmClient.main(YarnRmClient.java:44) : Connected to YarnRmApi Server

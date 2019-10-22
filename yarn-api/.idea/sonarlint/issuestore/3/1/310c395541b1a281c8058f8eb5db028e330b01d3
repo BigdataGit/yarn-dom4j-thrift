@@ -1,0 +1,11 @@
+
+squid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€è¹øÿÿÿÿ8ö¡íê,
+dsquid:S1192,"FDefine a constant instead of duplicating this literal "queue" 6 times.(«‰¦8³“ÌÜé,
+dsquid:S2142z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‚ĞÉ†ê,
+squid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€è¹øÿÿÿÿ8ã¼ĞŞé,
+squid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€è¹øÿÿÿÿ8ã¼ĞŞé,
+osquid:UselessImportCheck"?Remove this unused import 'com.sf.yarn.server.YarnRmApiServer'.(°ø»Âûÿÿÿÿ8¢¸Å«ê,
+squid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€è¹øÿÿÿÿ8ã¼ĞŞé,
+squid:S00115Ÿ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€è¹øÿÿÿÿ8ã¼ĞŞé,
+usquid:S3776K"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(å­âŞÿÿÿÿÿ8ìÇ†Şé,
+psquid:S3008"SRename this field "XML_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïûù08ÎÏÉ«ê,
